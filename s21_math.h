@@ -11,8 +11,8 @@
 #define s21_EPS 1e-13
 #define s21_NEG_ZERO -0.0
 
-// int s21_abs(int x);
-// long double s21_fabs(double x);
+int s21_abs(int x);
+long double s21_fabs(double x);
 
 // long double s21_log(double x);
 // long double s21_exp(double x);
