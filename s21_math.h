@@ -15,9 +15,9 @@ int s21_abs(int x);
 long double s21_fabs(double x);
 
 // long double s21_log(double x);
-// long double s21_exp(double x);
+long double s21_exp(double x);
 // long double s21_sqrt(double x);
-// long double s21_pow(double base, double exp);
+long double s21_pow(double base, double exp);
 
 long double s21_ceil(double x);
 long double s21_floor(double x);
@@ -34,7 +34,7 @@ long double s21_acos(double x);
 // Help functions
 int IsNaN(long double num);
 int IsInf(long double num);
-// long double IntPow(double base, int exp);
+long double IntPow(double base, int exp);
 long double RemovePeriod(double num);
 long double CalculateAtan(double num);
 
