@@ -4,4 +4,4 @@ Implementation of the standard math.h library in the C programming language.
 - GCC compiler
 - make Utility
 ## Commands:
-- Run `make` - to build project and run tests
+- Run `make` - to build library and run tests
